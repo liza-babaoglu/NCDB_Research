@@ -3,7 +3,7 @@ Selected code for the publication: PREDICTION OF FATALITIES IN VEHICLE COLLISION
 
 2021 - Double-blinded Peer-reviewed Journal Publication 
 
-Authors: Liza Babaoglu, Ceni Babaoglu
+Authors: Liza Babaoglu, Dr. Ceni Babaoglu
 
 Tools used for data analysis, mining, and prediction: R, RStudio
 
